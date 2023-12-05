@@ -1,1 +1,41 @@
 # landingPage
+Landing page to the new coffee shop in saul elkind
+ 
+# Indice
+
+[Projeto de portfólio pessoal](#projeto-de-portf%C3%B3lio-pessoal)
+[Descrição](#descri%C3%A7%C3%A3o)
+[Introdução](#introdu%C3%A7%C3%A3o)
+[Funcionalidades](https://github.com/bryancardosoo/formcadas#funcionalidades)
+[Tecnologias utilizadas](#tecnologias-utilizadas)
+[Fontes consultadas](#fontes-consultadas)
+[Autores](#autores)  
+
+# Projeto de portfólio pessoal  
+
+![Capa do projeto](assets/img/capa.png)
+
+Project created to the recovery. 
+
+##   Descrição 
+
+Project about the page landing to the new coffee shop in saul elkind (fictitious) and too to recovery the note.
+##   Funcionalidades
+
+The functionalities are: The main objective is to convert leads, that is, to make the visitor become a customer, moving on to the next stage of the sales funnel.
+
+### Tecnologias utilizadas
+
+* ``HTML 5``
+* ``CSS 3``
+* ``Javascript``
+* ``FontAwesome``
+
+
+## Fontes consultadas
+* []()
+* [FontAwesome](https://fontawesome.com/) - 
+
+## Autores
+
+Bryan Cardoso
