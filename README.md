@@ -12,7 +12,7 @@ Landing page to the new coffee shop in saul elkind
 
 # Projeto de portfólio pessoal  
 
-![Capa do projeto](assets/img/capa.png)
+![Capa do projeto](img/capa.png)
 
 Project created to the recovery. 
 
