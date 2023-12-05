@@ -5,8 +5,7 @@ Landing page to the new coffee shop in saul elkind
 
 [Projeto de portfólio pessoal](#projeto-de-portf%C3%B3lio-pessoal)
 [Descrição](#descri%C3%A7%C3%A3o)
-[Introdução](#introdu%C3%A7%C3%A3o)
-[Funcionalidades](https://github.com/bryancardosoo/formcadas#funcionalidades)
+[Funcionalidades](#funcionalidades)
 [Tecnologias utilizadas](#tecnologias-utilizadas)
 [Fontes consultadas](#fontes-consultadas)
 [Autores](#autores)  
@@ -33,7 +32,6 @@ The functionalities are: The main objective is to convert leads, that is, to mak
 
 
 ## Fontes consultadas
-* []()
 * [FontAwesome](https://fontawesome.com/) - 
 
 ## Autores
