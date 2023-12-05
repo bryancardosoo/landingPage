@@ -281,7 +281,7 @@ header .container {
 }
 
 @media screen and (max-width: 870px) {
-  .hamburger-menu {
+  .coffee-menu {
     display: flex;
   }
 
