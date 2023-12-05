@@ -42,6 +42,7 @@ The functionalities are: The main objective is to convert leads, that is, to mak
 
 
 ## Fontes consultadas
+* [Responsive Landing Page Using HTML & CSS & JavaScript _ Tutorial]() - Vídeo no acervo do Marista Ir. Acácio
 * [FontAwesome](https://fontawesome.com/) - 
 
 ## Autores
