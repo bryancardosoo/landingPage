@@ -6,7 +6,7 @@ var hamburger_menu;
 function declare() {
   toggle_btn = document.querySelector(".toggle-btn");
   big_wrapper = document.querySelector(".big-wrapper");
-  hamburger_menu = document.querySelector(".hamburger-menu");
+  hamburger_menu = document.querySelector(".coffee-menu");
 }
 
 const main = document.querySelector("main");
